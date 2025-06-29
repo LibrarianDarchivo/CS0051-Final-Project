@@ -1,7 +1,7 @@
 # CS0051-Final-Project
 ## Members
-- Centeno, Joaquin Franco (?)
-- Robledo, Ian Justine (?)
+- Centeno, Joaquin Franco (Programmer)
+- Robledo, Ian Justine (Documentation, Video Presentation)
 - Reyes, Jan Andrei (Programmer)
 
 ## To-do:
