@@ -5,6 +5,6 @@
 - Reyes, Jan Andrei (Programmer)
 
 ## To-do:
-- Pusoy_Clash.cpp
-- Tong-its_Tagisan.cpp
-- Documentation.docx/pdf
+- Pusoy_Clash.cpp (Jan, wip)
+- ~~Tong-its_Tagisan.cpp~~ (Joaquin)
+- Documentation.docx/pdf (Ian, wip)
