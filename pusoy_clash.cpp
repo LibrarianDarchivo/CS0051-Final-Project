@@ -125,7 +125,7 @@ int main() {
     }
 
     if (winners.size() == 1) {
-        cout << "\n🏆Player " << winners[0] << " won with " << maxScore << " points!\n";
+        cout << "\nPlayer " << winners[0] << " won with " << maxScore << " points!\n";
     } else {
         cout << "\nDraw between players: ";
         for (size_t i = 0; i < winners.size(); ++i) {
