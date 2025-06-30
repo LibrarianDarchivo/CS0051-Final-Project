@@ -6,7 +6,7 @@
 
 ## To-do:
 - Pusoy_Clash.cpp (Jan, wip)
-  - Upload .cpp to GitHub repository
+  - ~~Upload .cpp to GitHub repository~~
   - Documentation
 - ~~Tong-its_Tagisan.cpp~~ (Joaquin)
   - Upload .cpp to GitHub repository
